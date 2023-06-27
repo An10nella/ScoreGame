@@ -24,14 +24,18 @@ h3{
 
 
 }
-.home-box p , .guest-box p{
-    padding-top: 50px;
-    color: rgb(219, 61, 61);
-    
-    text-align: center;
-    
+.home-box p, .guest-box p {
+  color: #f94f6d;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 50px;
+  font-family: "Cursed Timer ULiL", sans-serif;
+  margin-top: 0px;
 }
+    
+
 .stats-box{
     border-radius: 3px;
     font-size: 40px;
+    background-color: #9aabd8;
 }
