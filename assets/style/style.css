@@ -12,6 +12,7 @@ h3{
 }
 
 .home-box , .guest-box{
+    margin: 0px;
     width: 120px;
     height: 155px;
     border-radius: 3px;
@@ -23,7 +24,10 @@ h3{
 
 }
 .home-box p , .guest-box p{
+    padding-top: 50px;
+    
     color: rgb(219, 61, 61);
     font-family: "Cursed Timer ULiL", sans-serif;
     text-align: center;
+    
 }
