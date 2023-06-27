@@ -13,6 +13,7 @@ h3{
 }
 
 .home-box , .guest-box{
+    text-align: center;
     margin: 0px;
     width: 120px;
     height: 155px;
