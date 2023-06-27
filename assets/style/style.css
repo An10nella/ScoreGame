@@ -16,12 +16,14 @@ h3{
     height: 155px;
     border-radius: 3px;
     background-color: #000;
-    font-size: 5px;
+    font-size: 50px;
     
     
 
 
 }
-.home-box p{
+.home-box p , .guest-box p{
     color: rgb(219, 61, 61);
+    font-family: "Cursed Timer ULiL", sans-serif;
+    text-align: center;
 }
