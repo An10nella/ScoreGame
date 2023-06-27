@@ -2,6 +2,10 @@ body{
     
     background-color: #1b244a;
 }
+.container {
+    display: flex;
+    justify-content: space-around;
+}
 
 h3{
     color:#fff;
