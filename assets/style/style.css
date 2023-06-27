@@ -6,3 +6,12 @@ body{
 h3{
     color:#fff;
 }
+
+.home-box{
+    background-color: #000;
+
+
+}
+.home-box p{
+    color: rgb(219, 61, 61);
+}
