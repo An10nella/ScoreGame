@@ -5,6 +5,7 @@ body{
 .container {
     display: flex;
     justify-content: space-around;
+    font-family:"Cursed Timer ULiL", sans-serif;
 }
 
 h3{
@@ -26,7 +27,11 @@ h3{
 .home-box p , .guest-box p{
     padding-top: 50px;
     color: rgb(219, 61, 61);
-    font-family: Cursed Timer ULiL , sans-serif;
+    
     text-align: center;
     
+}
+.stats-box{
+    border-radius: 3px;
+    font-size: 40px;
 }
