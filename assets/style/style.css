@@ -7,8 +7,14 @@ h3{
     color:#fff;
 }
 
-.home-box{
+.home-box , .guest-box{
+    width: 120px;
+    height: 155px;
+    border-radius: 3px;
     background-color: #000;
+    font-size: 5px;
+    
+    
 
 
 }
