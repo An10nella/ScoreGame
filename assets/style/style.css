@@ -10,16 +10,18 @@ body{
 
 h3{
     color:#fff;
+    text-align: center;
 }
 
-.home-box , .guest-box{
-    text-align: center;
+.home-box , .guest-box {
+    
     margin: 0px;
-    width: 120px;
-    height: 155px;
-    border-radius: 3px;
+    width: 140px;
+    height: 170px;
+    border-radius: 6px;
     background-color: #000;
-    font-size: 50px;
+    font-size: 60px;
+   
     
     
 
@@ -29,14 +31,30 @@ h3{
   color: #f94f6d;
   text-align: center;
   font-size: 50px;
-  padding-top: 50px;
+  padding-top: 60px;
   font-family: "Cursed Timer ULiL", sans-serif;
   margin-top: 0px;
 }
     
 
-.stats-box{
-    border-radius: 3px;
-    font-size: 40px;
-    background-color: #9aabd8;
+
+.stats-box  {
+    
+    margin: 0px;
+    width: 140px;
+    height: 170px;
+    border-radius: 6px;
+    background-color:#9aabd8 ;
+    font-size: 60px;
 }
+
+.stats-box p {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+    font-family: "Cursed Timer ULiL", sans-serif;
+    margin-top: 0px;
+}
+
+
+

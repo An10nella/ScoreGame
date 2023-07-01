@@ -1,0 +1,36 @@
+.score-button {
+    text-align: center;
+    margin-top: 10px;
+   
+
+   
+
+}
+
+button {
+    font-size: 17px;
+    font-family: "Cursed Timer ULiL", sans-serif;
+    border-color: #9aabd8;
+    color: #9aabd8;
+    background-color: #1b244a;
+    
+
+
+}
+
+
+
+
+
+button:hover{
+    background-color:  rgb(179, 25, 25);
+}
+
+.score-button span:hover{
+    color: rgb(179, 25, 25);
+    background-color: #fff;
+    
+}
+.button1:hover {
+    background-color: #fff;
+}
