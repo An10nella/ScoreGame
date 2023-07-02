@@ -85,13 +85,11 @@ function reset() {
     count = 0
     counterEl.textContent = count
     result.textContent = "SAME SCORE BOTH"
-    home.style.backgroundColor="#1b244a"
-    guest.style.backgroundColor="#1b244a"
+    color2()
     count1 = 0
     counterEl2.textContent = count1
     result.textContent = "SAME SCORE BOTH"
-    home.style.backgroundColor="#1b244a"
-    guest.style.backgroundColor="#1b244a"
+    color2()
 }
 
 
@@ -133,6 +131,11 @@ function color1(){
 
 }
 
+function color2(){
+    home.style.backgroundColor="#1b244a"
+    guest.style.backgroundColor="#1b244a"
+
+}
 
 
 
