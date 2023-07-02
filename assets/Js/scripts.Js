@@ -116,6 +116,7 @@ function loopCounter() {
 
     else {
         result.textContent = "HOME AND GUEST ARE EQUAL"
+        color2()
     }
 
 
