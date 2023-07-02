@@ -132,15 +132,7 @@ function color1(){
     home.style.backgroundColor="#1b244a"
 
 }
-// function main() {
-//     increment()
-//     increment00()
-//     increment00()
-//     increment2()
-//     increment22()
-//     increment222()
 
-// }
 
 
 
